@@ -24,7 +24,7 @@
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 634
+                "stars": 636
               }
             },
             {
@@ -38,7 +38,7 @@
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 634
+                "stars": 636
               }
             },
             {
@@ -52,7 +52,7 @@
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 634
+                "stars": 636
               }
             },
             {
@@ -66,7 +66,7 @@
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 634
+                "stars": 636
               }
             },
             {
@@ -80,7 +80,7 @@
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 634
+                "stars": 636
               }
             },
             {
@@ -94,7 +94,7 @@
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 634
+                "stars": 636
               }
             }
           ],
@@ -104,7 +104,7 @@
             "last_commit": "2025-05-30T03:20:00Z",
             "owner": "q3k",
             "repo": "chubby75",
-            "stars": 634
+            "stars": 636
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-02-26T08:36:32Z",
             "owner": "kholia",
             "repo": "Colorlight-5A-75B",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2023-10-20T19:21:34Z",
             "owner": "kittennbfive",
             "repo": "5A-75B-tools",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:58:19.708Z",
+    "last_updated": "2026-08-15T03:50:29.758Z",
     "original_repository": "iDoka/awesome-fpga-boards",
     "original_repository_sha": "16a3e7e83de746645218248d5773d48c57e6d53e",
     "enhanced_repository": "enhansome/enhansome-fpga-boards",
