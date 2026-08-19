@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "todo",
-      "items": [],
-      "title": "ToC"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 159067998,
                 "language": "Python",
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
@@ -34,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 159067998,
                 "language": "Python",
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
@@ -48,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 159067998,
                 "language": "Python",
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
@@ -62,6 +60,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 159067998,
                 "language": "Python",
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
@@ -76,6 +75,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 159067998,
                 "language": "Python",
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
@@ -90,6 +90,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 159067998,
                 "language": "Python",
                 "last_commit": "2025-05-30T03:20:00Z",
                 "owner": "q3k",
@@ -100,6 +101,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 159067998,
             "language": "Python",
             "last_commit": "2025-05-30T03:20:00Z",
             "owner": "q3k",
@@ -114,6 +116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251380669,
             "language": "Python",
             "last_commit": "2023-08-30T10:13:51Z",
             "owner": "enjoy-digital",
@@ -128,6 +131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263331902,
             "language": "Verilog",
             "last_commit": "2026-02-26T08:36:32Z",
             "owner": "kholia",
@@ -142,6 +146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296694324,
             "language": "HTML",
             "last_commit": "2023-10-20T19:21:34Z",
             "owner": "kittennbfive",
@@ -156,6 +161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291277615,
             "language": "HTML",
             "last_commit": "2023-04-19T19:35:22Z",
             "owner": "cyber-murmel",
@@ -170,6 +176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243321004,
             "language": null,
             "last_commit": "2020-02-26T17:17:14Z",
             "owner": "TomKeddie",
@@ -181,7 +188,7 @@
       "title": "Colorlight Lattice ECP5"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -190,24 +197,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227949166,
             "language": "C",
             "last_commit": "2020-04-06T14:08:21Z",
             "owner": "ktemkin",
             "repo": "camlink-re",
             "stars": 54
           }
-        },
-        {
-          "node_type": "item",
-          "title": "LiTex on Elgato CameraLink 4K",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Elgato CameraLink 4K"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -216,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160108509,
             "language": "Verilog",
             "last_commit": "2021-05-13T23:18:59Z",
             "owner": "tomverbeure",
@@ -230,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129553257,
             "language": "Verilog",
             "last_commit": "2024-04-02T00:46:35Z",
             "owner": "tomverbeure",
@@ -239,26 +243,12 @@
         }
       ],
       "title": "Panologic"
-    },
-    {
-      "description": "none",
-      "items": [],
-      "title": "unsorted"
-    },
-    {
-      "description": "Follow this root-repo for lastest updates: https://github.com/iDoka/awesome-fpga-boards",
-      "items": [],
-      "title": "etc"
-    },
-    {
-      "description": "#awesome #awesome-list #fpga #altera #lattice #xilinx #zynq #intel #pci-e #qsfp #ethernet #jtag #bmc #microsoft #ecp5 #colorlight #5a-75b #chubby75 #elgato #cisco",
-      "items": [],
-      "title": "Tags"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:55:30.402Z",
+    "last_updated": "2026-08-19T12:27:40.181Z",
     "original_repository": "iDoka/awesome-fpga-boards",
+    "original_repository_id": 321340942,
     "original_repository_sha": "16a3e7e83de746645218248d5773d48c57e6d53e",
     "enhanced_repository": "enhansome/enhansome-fpga-boards",
     "enhanced_repository_description": null,
