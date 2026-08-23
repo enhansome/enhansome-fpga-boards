@@ -8,7 +8,7 @@ List of Repurposed FPGA boards which getting Second life in DYI or Hobby project
 * https://hackaday.io/project/159853-fpga-board-hack
 -->
 
-URL: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 105 | 🐛 1 | 📅 2021-01-12
+URL: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 104 | 🐛 1 | 📅 2021-01-12
 
 ## ToC
 
@@ -87,7 +87,7 @@ none
 
 ## etc
 
-Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 105 | 🐛 1 | 📅 2021-01-12
+Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 104 | 🐛 1 | 📅 2021-01-12
 
 ## Tags
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
