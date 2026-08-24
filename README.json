@@ -183,6 +183,21 @@
             "repo": "prj-colorlight-fpga",
             "stars": 5
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Colorlight i5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293705373,
+            "language": "Verilog",
+            "last_commit": "2026-06-10T00:08:50Z",
+            "owner": "wuxx",
+            "repo": "Colorlight-FPGA-Projects",
+            "stars": 354
+          }
         }
       ],
       "title": "Colorlight Lattice ECP5"
@@ -223,7 +238,7 @@
             "last_commit": "2021-05-13T23:18:59Z",
             "owner": "tomverbeure",
             "repo": "panologic-g2",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -246,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:01:54.902Z",
+    "last_updated": "2026-08-24T14:39:48.727Z",
     "original_repository": "iDoka/awesome-fpga-boards",
     "original_repository_id": 321340942,
     "original_repository_sha": "16a3e7e83de746645218248d5773d48c57e6d53e",

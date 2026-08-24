@@ -68,7 +68,7 @@ todo
 
 ## Panologic
 
-* [PanoLogic Zero Client G2 reverse engineering project](https://github.com/tomverbeure/panologic-g2) ⭐ 153 | 🐛 4 | 🌐 Verilog | 📅 2021-05-13
+* [PanoLogic Zero Client G2 reverse engineering project](https://github.com/tomverbeure/panologic-g2) ⭐ 154 | 🐛 4 | 🌐 Verilog | 📅 2021-05-13
 * [PanoLogic Zero Client G1 reverse engineering info](https://github.com/tomverbeure/panologic) ⭐ 77 | 🐛 1 | 🌐 Verilog | 📅 2024-04-02
 
 ![Panologic](img/Pano-Logic-Zero-Client-G1.jpg)
