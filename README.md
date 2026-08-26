@@ -39,7 +39,7 @@ todo
 
 ![Linsn RV901T](img/RV901T.jpg)
 
-* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 354 | 🐛 7 | 🌐 Verilog | 📅 2026-06-10
+* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 355 | 🐛 7 | 🌐 Verilog | 📅 2026-06-10
 
 ![Colorlight i5](img/Colorlight-i5.jpg)
 
@@ -75,7 +75,7 @@ todo
 
 ## Cisco HWIC-3G-CDMA
 
-* [Reverse Engineering of the Cisco HWIC-3G-CDMA PCB (github)](https://github.com/tomverbeure/cisco-hwic-3g-cdma) ⭐ 47 | 🐛 1 | 🌐 Verilog | 📅 2024-03-07
+* [Reverse Engineering of the Cisco HWIC-3G-CDMA PCB (github)](https://github.com/tomverbeure/cisco-hwic-3g-cdma) ⭐ 48 | 🐛 1 | 🌐 Verilog | 📅 2024-03-07
 * [Reverse Engineering the Cisco HWIC-3G-CDMA (blog)](https://tomverbeure.github.io/2019/11/11/Cisco-HWIC-3G-CDMA.html)
 
 ![Cisco HWIC-3G-CDMA](img/Cisco-HWIC-3G-CDMA.png)
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

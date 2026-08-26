@@ -196,7 +196,7 @@
             "last_commit": "2026-06-10T00:08:50Z",
             "owner": "wuxx",
             "repo": "Colorlight-FPGA-Projects",
-            "stars": 354
+            "stars": 355
           }
         }
       ],
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:18.726Z",
+    "last_updated": "2026-08-26T03:59:57.232Z",
     "original_repository": "iDoka/awesome-fpga-boards",
     "original_repository_id": 321340942,
     "original_repository_sha": "16a3e7e83de746645218248d5773d48c57e6d53e",
