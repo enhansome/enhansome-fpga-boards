@@ -21,7 +21,8 @@
                 "owner": "q3k",
                 "repo": "chubby75",
                 "stars": 638
-              }
+              },
+              "first_seen": "2026-08-28T15:16:35.822Z"
             },
             {
               "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "q3k",
                 "repo": "chubby75",
                 "stars": 638
-              }
+              },
+              "first_seen": "2026-08-28T15:16:35.822Z"
             },
             {
               "node_type": "item",
@@ -51,7 +53,8 @@
                 "owner": "q3k",
                 "repo": "chubby75",
                 "stars": 638
-              }
+              },
+              "first_seen": "2026-08-28T15:16:35.822Z"
             },
             {
               "node_type": "item",
@@ -66,7 +69,8 @@
                 "owner": "q3k",
                 "repo": "chubby75",
                 "stars": 638
-              }
+              },
+              "first_seen": "2026-08-28T15:16:35.822Z"
             },
             {
               "node_type": "item",
@@ -81,7 +85,8 @@
                 "owner": "q3k",
                 "repo": "chubby75",
                 "stars": 638
-              }
+              },
+              "first_seen": "2026-08-28T15:16:35.822Z"
             },
             {
               "node_type": "item",
@@ -96,7 +101,8 @@
                 "owner": "q3k",
                 "repo": "chubby75",
                 "stars": 638
-              }
+              },
+              "first_seen": "2026-08-28T15:16:35.822Z"
             }
           ],
           "repo_info": {
@@ -107,7 +113,8 @@
             "owner": "q3k",
             "repo": "chubby75",
             "stars": 638
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         },
         {
           "node_type": "item",
@@ -122,7 +129,8 @@
             "owner": "enjoy-digital",
             "repo": "colorlite",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         },
         {
           "node_type": "item",
@@ -137,7 +145,8 @@
             "owner": "kholia",
             "repo": "Colorlight-5A-75B",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         },
         {
           "node_type": "item",
@@ -152,7 +161,8 @@
             "owner": "kittennbfive",
             "repo": "5A-75B-tools",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         },
         {
           "node_type": "item",
@@ -167,7 +177,8 @@
             "owner": "cyber-murmel",
             "repo": "chubby-hat",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         },
         {
           "node_type": "item",
@@ -182,7 +193,8 @@
             "owner": "TomKeddie",
             "repo": "prj-colorlight-fpga",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         },
         {
           "node_type": "item",
@@ -196,8 +208,9 @@
             "last_commit": "2026-06-10T00:08:50Z",
             "owner": "wuxx",
             "repo": "Colorlight-FPGA-Projects",
-            "stars": 355
-          }
+            "stars": 358
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         }
       ],
       "title": "Colorlight Lattice ECP5"
@@ -218,7 +231,8 @@
             "owner": "ktemkin",
             "repo": "camlink-re",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         }
       ],
       "title": "Elgato CameraLink 4K"
@@ -239,7 +253,8 @@
             "owner": "tomverbeure",
             "repo": "panologic-g2",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         },
         {
           "node_type": "item",
@@ -254,14 +269,15 @@
             "owner": "tomverbeure",
             "repo": "panologic",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T15:16:35.822Z"
         }
       ],
       "title": "Panologic"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:05:38.049Z",
+    "last_updated": "2026-08-28T15:16:35.822Z",
     "original_repository_info": {
       "archived": false,
       "id": 321340942,
