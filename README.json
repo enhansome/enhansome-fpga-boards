@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
+                "homepage": null,
                 "id": 159067998,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-30T03:20:00Z",
+                "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 638
+                "stars": 638,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
             },
@@ -31,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
+                "homepage": null,
                 "id": 159067998,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-30T03:20:00Z",
+                "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 638
+                "stars": 638,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
             },
@@ -47,12 +57,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
+                "homepage": null,
                 "id": 159067998,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-30T03:20:00Z",
+                "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 638
+                "stars": 638,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
             },
@@ -63,12 +78,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
+                "homepage": null,
                 "id": 159067998,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-30T03:20:00Z",
+                "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 638
+                "stars": 638,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
             },
@@ -79,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
+                "homepage": null,
                 "id": 159067998,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-30T03:20:00Z",
+                "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 638
+                "stars": 638,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
             },
@@ -95,24 +120,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
+                "homepage": null,
                 "id": 159067998,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-30T03:20:00Z",
+                "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 638
+                "stars": 638,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
+            "homepage": null,
             "id": 159067998,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-05-30T03:20:00Z",
+            "open_issues": 33,
             "owner": "q3k",
             "repo": "chubby75",
-            "stars": 638
+            "stars": 638,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         },
@@ -123,12 +158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take control of your Colorlight FPGA board with LiteX/LiteEth :)",
+            "homepage": null,
             "id": 251380669,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-08-30T10:13:51Z",
+            "open_issues": 3,
             "owner": "enjoy-digital",
             "repo": "colorlite",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         },
@@ -139,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notes for Colorlight-5A-75B.",
+            "homepage": null,
             "id": 263331902,
             "language": "Verilog",
+            "license": null,
             "last_commit": "2026-02-26T08:36:32Z",
+            "open_issues": 0,
             "owner": "kholia",
             "repo": "Colorlight-5A-75B",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         },
@@ -155,12 +200,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a collection of tools made while messing with the Colorlight 5A-75B V7.0 and some notes using ECP5 with Yosys",
+            "homepage": null,
             "id": 296694324,
             "language": "HTML",
+            "license": "AGPL-3.0",
             "last_commit": "2023-10-20T19:21:34Z",
+            "open_issues": 1,
             "owner": "kittennbfive",
             "repo": "5A-75B-tools",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "5a-75b",
+              "chubby75",
+              "colorlight",
+              "ecp5",
+              "fpga",
+              "nextpnr",
+              "nextpnr-ecp5",
+              "verilog",
+              "yosys"
+            ]
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         },
@@ -171,12 +231,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a PCB that turns the Colorlight 5A-75B into an easy to use development FPGA platform for cheap",
+            "homepage": "https://hackaday.io/project/174032-chubby-hat",
             "id": 291277615,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-04-19T19:35:22Z",
+            "open_issues": 5,
             "owner": "cyber-murmel",
             "repo": "chubby-hat",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "fpga",
+              "fpga-board",
+              "hardware",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         },
@@ -187,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of resources on the Colorlight FPGA boards",
+            "homepage": null,
             "id": 243321004,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-26T17:17:14Z",
+            "open_issues": 0,
             "owner": "TomKeddie",
             "repo": "prj-colorlight-fpga",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         },
@@ -203,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "current focus on Colorlight i5 and i9 & i9plus module",
+            "homepage": null,
             "id": 293705373,
             "language": "Verilog",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-10T00:08:50Z",
+            "open_issues": 7,
             "owner": "wuxx",
             "repo": "Colorlight-FPGA-Projects",
-            "stars": 358
+            "stars": 359,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         }
@@ -225,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tools for reverse engineering Elgato Camlink devices",
+            "homepage": null,
             "id": 227949166,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-06T14:08:21Z",
+            "open_issues": 1,
             "owner": "ktemkin",
             "repo": "camlink-re",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         }
@@ -247,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pano Logic G2 Reverse Engineering Project",
+            "homepage": null,
             "id": 160108509,
             "language": "Verilog",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-13T23:18:59Z",
+            "open_issues": 4,
             "owner": "tomverbeure",
             "repo": "panologic-g2",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         },
@@ -263,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PanoLogic Zero Client G1 reverse engineering info",
+            "homepage": null,
             "id": 129553257,
             "language": "Verilog",
+            "license": null,
             "last_commit": "2024-04-02T00:46:35Z",
+            "open_issues": 1,
             "owner": "tomverbeure",
             "repo": "panologic",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
         }
@@ -277,15 +372,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:16:35.822Z",
+    "last_updated": "2026-08-29T04:58:03.541Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
+      "homepage": null,
       "id": 321340942,
       "language": null,
+      "license": null,
       "last_commit": "2021-01-12T18:46:29Z",
+      "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-fpga-boards",
-      "stars": 104
+      "stars": 104,
+      "topics": [
+        "altera",
+        "antminer",
+        "awesome",
+        "awesome-list",
+        "bmc",
+        "chubby75",
+        "colorlight",
+        "ecp5",
+        "ethernet",
+        "fpga",
+        "intel",
+        "jtag",
+        "lattice",
+        "microsoft",
+        "pci-e",
+        "qsfp",
+        "xilinx",
+        "zynq"
+      ]
     },
     "original_repository_sha": "16a3e7e83de746645218248d5773d48c57e6d53e",
     "enhanced_repository": "enhansome/enhansome-fpga-boards",
