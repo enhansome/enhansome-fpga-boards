@@ -8,7 +8,7 @@ List of Repurposed FPGA boards which getting Second life in DYI or Hobby project
 * https://hackaday.io/project/159853-fpga-board-hack
 -->
 
-URL: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 104 | 🐛 1 | 📅 2021-01-12
+URL: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 105 | 🐛 1 | 📅 2021-01-12
 
 ## ToC
 
@@ -39,7 +39,7 @@ todo
 
 ![Linsn RV901T](img/RV901T.jpg)
 
-* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 359 | 🐛 7 | 🌐 Verilog | 📅 2026-06-10
+* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 360 | 🐛 7 | 🌐 Verilog | 📅 2026-06-10
 
 ![Colorlight i5](img/Colorlight-i5.jpg)
 
@@ -87,7 +87,7 @@ none
 
 ## etc
 
-Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 104 | 🐛 1 | 📅 2021-01-12
+Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 105 | 🐛 1 | 📅 2021-01-12
 
 ## Tags
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
