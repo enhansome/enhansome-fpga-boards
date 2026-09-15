@@ -188,7 +188,7 @@
             "open_issues": 0,
             "owner": "kholia",
             "repo": "Colorlight-5A-75B",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
@@ -283,7 +283,7 @@
             "id": 293705373,
             "language": "Verilog",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-10T00:08:50Z",
+            "last_commit": "2026-09-15T01:53:49Z",
             "open_issues": 7,
             "owner": "wuxx",
             "repo": "Colorlight-FPGA-Projects",
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:49:09.192Z",
+    "last_updated": "2026-09-15T08:36:17.239Z",
     "original_repository_info": {
       "archived": false,
       "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
