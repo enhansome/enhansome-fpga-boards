@@ -8,7 +8,7 @@ List of Repurposed FPGA boards which getting Second life in DYI or Hobby project
 * https://hackaday.io/project/159853-fpga-board-hack
 -->
 
-URL: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 105 | 🐛 1 | 📅 2021-01-12
+URL: <https://github.com/iDoka/awesome-fpga-boards>
 
 ## ToC
 
@@ -16,7 +16,7 @@ todo
 
 ## Antminer S9 Control Board
 
-* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 799 | 🐛 8 | 📅 2021-05-15
+* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 800 | 🐛 8 | 📅 2021-05-15
 
 ![EBAZ4205 (Xilinx XC7Z010CLG400)](img/EBAZ4205.jpg)
 
@@ -39,7 +39,7 @@ todo
 
 ![Linsn RV901T](img/RV901T.jpg)
 
-* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 367 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15
+* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 368 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15
 
 ![Colorlight i5](img/Colorlight-i5.jpg)
 
@@ -87,7 +87,7 @@ none
 
 ## etc
 
-Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpga-boards> ⭐ 105 | 🐛 1 | 📅 2021-01-12
+Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpga-boards>
 
 ## Tags
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

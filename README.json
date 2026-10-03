@@ -6,12 +6,12 @@
         {
           "node_type": "item",
           "title": "Linsn RV901T HUB75 LED \"Receiver Card\" Reverse Engineering",
-          "description": null,
+          "description": "q3k/chubby75",
           "children": [
             {
               "node_type": "item",
               "title": "Colorlight 5A-75B V6.1 Hardware",
-              "description": null,
+              "description": "q3k/chubby75",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -32,7 +32,7 @@
             {
               "node_type": "item",
               "title": "Colorlight 5A-75B V7.0 Hardware",
-              "description": null,
+              "description": "q3k/chubby75",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -53,7 +53,7 @@
             {
               "node_type": "item",
               "title": "Colorlight 5A-75B V8.0 Hardware",
-              "description": null,
+              "description": "q3k/chubby75",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -74,7 +74,7 @@
             {
               "node_type": "item",
               "title": "Colorlight 5A-75E V6.0 Hardware",
-              "description": null,
+              "description": "q3k/chubby75",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -95,7 +95,7 @@
             {
               "node_type": "item",
               "title": "Colorlight 5A-75E V7.1 Hardware",
-              "description": null,
+              "description": "q3k/chubby75",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "Linsn RV901T HUB75",
-              "description": null,
+              "description": "q3k/chubby75",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -154,7 +154,7 @@
         {
           "node_type": "item",
           "title": "ColorLight 5A-75B",
-          "description": null,
+          "description": "enjoy-digital/colorlite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,7 +175,7 @@
         {
           "node_type": "item",
           "title": "Notes for Colorlight-5A-75B",
-          "description": null,
+          "description": "kholia/Colorlight-5A-75B",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -196,7 +196,7 @@
         {
           "node_type": "item",
           "title": "Collection of tools made while messing with the Colorlight 5A-75B V7.0",
-          "description": null,
+          "description": "kittennbfive/5A-75B-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -227,7 +227,7 @@
         {
           "node_type": "item",
           "title": "PCB Adapters with 7 PMOD connectors for Colorlight 5A-75B",
-          "description": null,
+          "description": "cyber-murmel/chubby-hat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -253,7 +253,7 @@
         {
           "node_type": "item",
           "title": "Collection of resources on the Colorlight FPGA boards",
-          "description": null,
+          "description": "TomKeddie/prj-colorlight-fpga",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -274,7 +274,7 @@
         {
           "node_type": "item",
           "title": "Colorlight i5",
-          "description": null,
+          "description": "wuxx/Colorlight-FPGA-Projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -287,7 +287,7 @@
             "open_issues": 7,
             "owner": "wuxx",
             "repo": "Colorlight-FPGA-Projects",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "Elgato Camlink Reverse Engineering Tools",
-          "description": null,
+          "description": "ktemkin/camlink-re",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "PanoLogic Zero Client G2 reverse engineering project",
-          "description": null,
+          "description": "tomverbeure/panologic-g2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -349,7 +349,7 @@
         {
           "node_type": "item",
           "title": "PanoLogic Zero Client G1 reverse engineering info",
-          "description": null,
+          "description": "tomverbeure/panologic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:39:57.296Z",
+    "last_updated": "2026-10-03T04:47:17.885Z",
     "original_repository_info": {
       "archived": false,
       "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
