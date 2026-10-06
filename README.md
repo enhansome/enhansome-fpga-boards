@@ -22,13 +22,13 @@ todo
 
 ## Colorlight Lattice ECP5
 
-* [Linsn RV901T HUB75 LED "Receiver Card" Reverse Engineering](https://github.com/q3k/chubby75) ⭐ 643 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V6.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md) ⭐ 643 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V7.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) ⭐ 643 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V8.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) ⭐ 643 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75E V6.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) ⭐ 643 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) ⭐ 643 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t) ⭐ 643 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+* [Linsn RV901T HUB75 LED "Receiver Card" Reverse Engineering](https://github.com/q3k/chubby75) ⭐ 644 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V6.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md) ⭐ 644 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V7.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) ⭐ 644 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V8.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) ⭐ 644 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75E V6.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) ⭐ 644 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) ⭐ 644 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t) ⭐ 644 | 🐛 33 | 🌐 Python | 📅 2025-05-30
 * [ColorLight 5A-75B](https://github.com/enjoy-digital/colorlite) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-08-30
 * [Notes for Colorlight-5A-75B](https://github.com/kholia/Colorlight-5A-75B) ⭐ 58 | 🐛 0 | 🌐 Verilog | 📅 2026-02-26
 * [Collection of tools made while messing with the Colorlight 5A-75B V7.0](https://github.com/kittennbfive/5A-75B-tools) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2023-10-20
@@ -46,7 +46,7 @@ todo
 ## Elgato CameraLink 4K
 
 * [Elgato Camlink Reverse Engineering Tools](https://github.com/ktemkin/camlink-re) ⭐ 54 | 🐛 1 | 🌐 C | 📅 2020-04-06
-* [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k)
+* [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-10-02
 
 ![Elgato CameraLink 4K](img/Elgato-CameraLink-4K.jpg)
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

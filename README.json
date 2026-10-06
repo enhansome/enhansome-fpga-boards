@@ -24,7 +24,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -45,7 +45,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -66,7 +66,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -87,7 +87,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -108,7 +108,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -129,7 +129,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -146,7 +146,7 @@
             "open_issues": 33,
             "owner": "q3k",
             "repo": "chubby75",
-            "stars": 643,
+            "stars": 644,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
@@ -318,6 +318,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LiTex on Elgato CameraLink 4K",
+          "description": "enjoy-digital/camlink_4k",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1392561578,
+            "language": "C",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-10-02T11:27:10Z",
+            "open_issues": 0,
+            "owner": "enjoy-digital",
+            "repo": "camlink_4k",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:10:09.547Z"
         }
       ],
       "title": "Elgato CameraLink 4K"
@@ -372,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:18:55.950Z",
+    "last_updated": "2026-10-06T10:10:09.547Z",
     "original_repository_info": {
       "archived": false,
       "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
