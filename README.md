@@ -39,14 +39,14 @@ todo
 
 ![Linsn RV901T](img/RV901T.jpg)
 
-* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 368 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15
+* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 369 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15
 
 ![Colorlight i5](img/Colorlight-i5.jpg)
 
 ## Elgato CameraLink 4K
 
 * [Elgato Camlink Reverse Engineering Tools](https://github.com/ktemkin/camlink-re) ⭐ 54 | 🐛 1 | 🌐 C | 📅 2020-04-06
-* [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-10-02
+* [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2026-10-08
 
 ![Elgato CameraLink 4K](img/Elgato-CameraLink-4K.jpg)
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
