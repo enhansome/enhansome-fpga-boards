@@ -326,7 +326,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "The Elgato Cam Link 4K, rebuilt with open-source LiteX gateware and bare-metal FX3 firmware.",
             "homepage": null,
             "id": 1392561578,
             "language": "C",
@@ -335,7 +335,7 @@
             "open_issues": 0,
             "owner": "enjoy-digital",
             "repo": "camlink_4k",
-            "stars": 7,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-10-06T10:10:09.547Z"
@@ -393,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:27:38.094Z",
+    "last_updated": "2026-10-09T10:26:15.346Z",
     "original_repository_info": {
       "archived": false,
       "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
