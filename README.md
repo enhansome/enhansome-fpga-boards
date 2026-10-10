@@ -46,7 +46,7 @@ todo
 ## Elgato CameraLink 4K
 
 * [Elgato Camlink Reverse Engineering Tools](https://github.com/ktemkin/camlink-re) ⭐ 54 | 🐛 1 | 🌐 C | 📅 2020-04-06
-* [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k) ⭐ 23 | 🐛 0 | 🌐 C | 📅 2026-10-08
+* [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2026-10-08
 
 ![Elgato CameraLink 4K](img/Elgato-CameraLink-4K.jpg)
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
