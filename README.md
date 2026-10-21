@@ -16,7 +16,7 @@ todo
 
 ## Antminer S9 Control Board
 
-* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 805 | 🐛 8 | 📅 2021-05-15
+* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 805 | 🐛 8 | 🌐 Tcl | 📅 2026-10-21
 
 ![EBAZ4205 (Xilinx XC7Z010CLG400)](img/EBAZ4205.jpg)
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
