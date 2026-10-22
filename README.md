@@ -16,20 +16,20 @@ todo
 
 ## Antminer S9 Control Board
 
-* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 805 | 🐛 8 | 🌐 Tcl | 📅 2026-10-21
+* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 806 | 🐛 8 | 🌐 Tcl | 📅 2026-10-22
 
 ![EBAZ4205 (Xilinx XC7Z010CLG400)](img/EBAZ4205.jpg)
 
 ## Colorlight Lattice ECP5
 
-* [Linsn RV901T HUB75 LED "Receiver Card" Reverse Engineering](https://github.com/q3k/chubby75) ⭐ 647 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V6.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md) ⭐ 647 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V7.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) ⭐ 647 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V8.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) ⭐ 647 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75E V6.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) ⭐ 647 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) ⭐ 647 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t) ⭐ 647 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-* [ColorLight 5A-75B](https://github.com/enjoy-digital/colorlite) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-08-30
+* [Linsn RV901T HUB75 LED "Receiver Card" Reverse Engineering](https://github.com/q3k/chubby75) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V6.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V7.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V8.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75E V6.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+* [ColorLight 5A-75B](https://github.com/enjoy-digital/colorlite) ⭐ 114 | 🐛 3 | 🌐 Python | 📅 2023-08-30
 * [Notes for Colorlight-5A-75B](https://github.com/kholia/Colorlight-5A-75B) ⭐ 58 | 🐛 0 | 🌐 Verilog | 📅 2026-02-26
 * [Collection of tools made while messing with the Colorlight 5A-75B V7.0](https://github.com/kittennbfive/5A-75B-tools) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2023-10-20
 * [PCB Adapters with 7 PMOD connectors for Colorlight 5A-75B](https://github.com/cyber-murmel/chubby-hat) ⭐ 22 | 🐛 5 | 🌐 HTML | 📅 2023-04-19
@@ -75,7 +75,7 @@ todo
 
 ## Cisco HWIC-3G-CDMA
 
-* [Reverse Engineering of the Cisco HWIC-3G-CDMA PCB (github)](https://github.com/tomverbeure/cisco-hwic-3g-cdma) ⭐ 48 | 🐛 1 | 🌐 Verilog | 📅 2024-03-07
+* [Reverse Engineering of the Cisco HWIC-3G-CDMA PCB (github)](https://github.com/tomverbeure/cisco-hwic-3g-cdma) ⭐ 49 | 🐛 1 | 🌐 Verilog | 📅 2024-03-07
 * [Reverse Engineering the Cisco HWIC-3G-CDMA (blog)](https://tomverbeure.github.io/2019/11/11/Cisco-HWIC-3G-CDMA.html)
 
 ![Cisco HWIC-3G-CDMA](img/Cisco-HWIC-3G-CDMA.png)
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
