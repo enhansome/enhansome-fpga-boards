@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "kittennbfive",
             "repo": "5A-75B-tools",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "5a-75b",
               "chubby75",
@@ -393,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:02:40.381Z",
+    "last_updated": "2026-10-25T08:19:33.662Z",
     "original_repository_info": {
       "archived": false,
       "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
