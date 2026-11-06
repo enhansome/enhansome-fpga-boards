@@ -16,7 +16,7 @@ todo
 
 ## Antminer S9 Control Board
 
-* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 809 | 🐛 8 | 🌐 Tcl | 📅 2026-10-22
+* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 810 | 🐛 8 | 🌐 Tcl | 📅 2026-10-22
 
 ![EBAZ4205 (Xilinx XC7Z010CLG400)](img/EBAZ4205.jpg)
 
@@ -46,7 +46,7 @@ todo
 ## Elgato CameraLink 4K
 
 * [Elgato Camlink Reverse Engineering Tools](https://github.com/ktemkin/camlink-re) ⭐ 54 | 🐛 1 | 🌐 C | 📅 2020-04-06
-* [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2026-11-02
+* [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k) ⭐ 29 | 🐛 1 | 🌐 C | 📅 2026-11-02
 
 ![Elgato CameraLink 4K](img/Elgato-CameraLink-4K.jpg)
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
