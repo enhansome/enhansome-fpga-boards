@@ -22,15 +22,15 @@ todo
 
 ## Colorlight Lattice ECP5
 
-* [Linsn RV901T HUB75 LED "Receiver Card" Reverse Engineering](https://github.com/q3k/chubby75) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V6.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V7.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V8.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75E V6.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+* [Linsn RV901T HUB75 LED "Receiver Card" Reverse Engineering](https://github.com/q3k/chubby75) ⭐ 650 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V6.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md) ⭐ 650 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V7.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) ⭐ 650 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V8.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) ⭐ 650 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75E V6.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) ⭐ 650 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) ⭐ 650 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t) ⭐ 650 | 🐛 33 | 🌐 Python | 📅 2025-05-30
 * [ColorLight 5A-75B](https://github.com/enjoy-digital/colorlite) ⭐ 114 | 🐛 3 | 🌐 Python | 📅 2023-08-30
-* [Notes for Colorlight-5A-75B](https://github.com/kholia/Colorlight-5A-75B) ⭐ 59 | 🐛 0 | 🌐 Verilog | 📅 2026-02-26
+* [Notes for Colorlight-5A-75B](https://github.com/kholia/Colorlight-5A-75B) ⭐ 60 | 🐛 0 | 🌐 Verilog | 📅 2026-02-26
 * [Collection of tools made while messing with the Colorlight 5A-75B V7.0](https://github.com/kittennbfive/5A-75B-tools) ⭐ 24 | 🐛 1 | 🌐 HTML | 📅 2023-10-20
 * [PCB Adapters with 7 PMOD connectors for Colorlight 5A-75B](https://github.com/cyber-murmel/chubby-hat) ⭐ 22 | 🐛 5 | 🌐 HTML | 📅 2023-04-19
 * [Collection of resources on the Colorlight FPGA boards](https://github.com/TomKeddie/prj-colorlight-fpga/wiki) ⭐ 5 | 🐛 0 | 📅 2020-02-26
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
