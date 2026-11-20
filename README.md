@@ -39,7 +39,7 @@ todo
 
 ![Linsn RV901T](img/RV901T.jpg)
 
-* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 374 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15
+* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects) ⭐ 375 | 🐛 7 | 🌐 Verilog | 📅 2026-09-15
 
 ![Colorlight i5](img/Colorlight-i5.jpg)
 
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
