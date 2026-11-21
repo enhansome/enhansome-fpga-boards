@@ -24,7 +24,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -45,7 +45,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -66,7 +66,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -87,7 +87,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -108,7 +108,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -129,7 +129,7 @@
                 "open_issues": 33,
                 "owner": "q3k",
                 "repo": "chubby75",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:35.822Z"
@@ -146,7 +146,7 @@
             "open_issues": 33,
             "owner": "q3k",
             "repo": "chubby75",
-            "stars": 650,
+            "stars": 651,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
@@ -332,7 +332,7 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-02T18:07:20Z",
-            "open_issues": 1,
+            "open_issues": 5,
             "owner": "enjoy-digital",
             "repo": "camlink_4k",
             "stars": 29,
@@ -393,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T11:25:55.937Z",
+    "last_updated": "2026-11-21T10:54:03.835Z",
     "original_repository_info": {
       "archived": false,
       "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
