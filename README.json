@@ -335,7 +335,7 @@
             "open_issues": 1,
             "owner": "enjoy-digital",
             "repo": "camlink_4k",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-10-06T10:10:09.547Z"
@@ -393,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T12:20:08.300Z",
+    "last_updated": "2026-11-24T13:33:52.426Z",
     "original_repository_info": {
       "archived": false,
       "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
