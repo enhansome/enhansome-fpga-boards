@@ -16,19 +16,19 @@ todo
 
 ## Antminer S9 Control Board
 
-* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 819 | 🐛 8 | 🌐 Tcl | 📅 2026-10-22
+* [EBAZ4205 (Xilinx XC7Z010CLG400)](https://github.com/xjtuecho/EBAZ4205) ⭐ 820 | 🐛 8 | 🌐 Tcl | 📅 2026-10-22
 
 ![EBAZ4205 (Xilinx XC7Z010CLG400)](img/EBAZ4205.jpg)
 
 ## Colorlight Lattice ECP5
 
-* [Linsn RV901T HUB75 LED "Receiver Card" Reverse Engineering](https://github.com/q3k/chubby75) ⭐ 651 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V6.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md) ⭐ 651 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V7.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) ⭐ 651 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75B V8.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) ⭐ 651 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75E V6.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) ⭐ 651 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) ⭐ 651 | 🐛 33 | 🌐 Python | 📅 2025-05-30
-  * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t) ⭐ 651 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+* [Linsn RV901T HUB75 LED "Receiver Card" Reverse Engineering](https://github.com/q3k/chubby75) ⭐ 652 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V6.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V6.1.md) ⭐ 652 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V7.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V7.0.md) ⭐ 652 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75B V8.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75b/hardware_V8.0.md) ⭐ 652 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75E V6.0 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V6.0.md) ⭐ 652 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md) ⭐ 652 | 🐛 33 | 🌐 Python | 📅 2025-05-30
+  * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t) ⭐ 652 | 🐛 33 | 🌐 Python | 📅 2025-05-30
 * [ColorLight 5A-75B](https://github.com/enjoy-digital/colorlite) ⭐ 114 | 🐛 3 | 🌐 Python | 📅 2023-08-30
 * [Notes for Colorlight-5A-75B](https://github.com/kholia/Colorlight-5A-75B) ⭐ 60 | 🐛 0 | 🌐 Verilog | 📅 2026-02-26
 * [Collection of tools made while messing with the Colorlight 5A-75B V7.0](https://github.com/kittennbfive/5A-75B-tools) ⭐ 24 | 🐛 1 | 🌐 HTML | 📅 2023-10-20
@@ -114,4 +114,4 @@ Follow this root-repo for lastest updates: <https://github.com/iDoka/awesome-fpg
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
