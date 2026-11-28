@@ -287,7 +287,7 @@
             "open_issues": 7,
             "owner": "wuxx",
             "repo": "Colorlight-FPGA-Projects",
-            "stars": 375,
+            "stars": 376,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:35.822Z"
@@ -393,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T12:04:01.511Z",
+    "last_updated": "2026-11-28T11:37:45.248Z",
     "original_repository_info": {
       "archived": false,
       "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
